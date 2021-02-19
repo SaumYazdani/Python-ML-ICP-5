@@ -1,1 +1,1 @@
-# Python-ML-ICP-5
+In this ICP we were asked to plot a given data set, find all outliers, and remove all the outliers. We were then asked to calculate the R^2 and RMSE score for a given data set. And finally, we were asked to find the top 5 most correlated elements in a data set, and calculate the new RMSE and R^2 score. All of which was done in PyCharm using Pandas, Scikit learn, NumPy, MathPlotLib, and Scipy.
